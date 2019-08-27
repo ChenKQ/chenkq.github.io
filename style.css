@@ -7,15 +7,22 @@
 #basic {
     line-height:30px;
     background-color:#eeeeee;
-    height:300px;
-    width:300px;
+    /* height:300px; */
+    width:250px;
     float:left;
-    padding:5px; 
+    /* padding:5px;  */
+}
+#basictext{
+    line-height: 30px;
+    padding-left: 20px;
+    
 }
 #contents {
-    width:350px;
+    width:700px;
     float:left;
-    padding:10px; 
+    /* padding:10px;  */
+    padding-left: 20px;
+    text-align:justify;
 }
 #footer {
     background-color:turquoise;
